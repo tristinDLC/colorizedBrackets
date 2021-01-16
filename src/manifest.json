@@ -1,0 +1,12 @@
+{
+	"manifest_version": 1,
+	"id": "joplin.plugin.tristindlc.colorizedbrackets",
+	"app_min_version": "1.7",
+	"version": "1.0.0",
+	"name": "Colorized Brackets",
+	"description": "Joplin plugin to automatically colorized matching bracket pairs for easier identification.",
+	"author": "tristinDLC",
+	"homepage_url": "github.com/tristinDLC/colorizedBrackets",
+	"repository_url": "github.com/tristinDLC/colorizedBrackets",
+	"keywords": []
+}
